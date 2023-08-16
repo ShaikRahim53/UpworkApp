@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Upwork</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="welcome">Welcome,</string>
+    <string name="start_your">Start your</string>
+    <string name="journey">Journey</string>
+    <string name="login">Log in</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or">or</string>
+    <string name="sign_up">Sign up</string>
+    <string name="to_upwork">back</string>
+    <string name="enter_your_id">Enter your id</string>
+    <string name="top_services">Top Services</string>
+    <string name="user_preferences">Upwork User Preferences</string>
+    <string name="vendor_preferences">Upwork Vendor Preferences</string>
+    <string name="log_out">Log out</string>
+
+</resources>
